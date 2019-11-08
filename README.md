@@ -7,7 +7,7 @@ Ansible role which helps to configure environment variables.
 Example
 -------
 
-```
+```yaml
 ---
 
 # Example how to use the role
@@ -26,7 +26,7 @@ Role variables
 
 List of variables used by the role:
 
-```
+```yaml
 # Default environment file
 environment_file: /etc/environment
 
